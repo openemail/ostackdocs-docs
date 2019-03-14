@@ -33,6 +33,7 @@ extra:
     - type: 'linkedin'
       link: 'https://linkedin.com/in/ostackdoc'
 nav:
+- 'Introduction': 'index.md'
 - 'Test Environment Example': 'test-env-example.md'
 
 # Google Analytics
