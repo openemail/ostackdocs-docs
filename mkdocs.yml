@@ -1,15 +1,15 @@
 # Project information
-site_name: 'Material for MkDocs'
-site_description: 'A Material Design theme for MkDocs'
-site_author: 'Martin Donath'
-site_url: 'https://squidfunk.github.io/mkdocs-material/'
+site_name: 'Openstack Deployment Guide'
+site_description: 'Guide for openstack-ansible Deployers'
+site_author: 'Chinthaka Deshapriya'
+site_url: 'ostackdoc.github.io'
 
 # Repository
-repo_name: 'squidfunk/mkdocs-material'
-repo_url: 'https://github.com/squidfunk/mkdocs-material'
+repo_name: 'ostackdoc/ostackdocs-docs'
+repo_url: 'https://github.com/ostackdoc/ostackdocs-docs'
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2017 Martin Donath'
+copyright: 'Copyright &copy; 2018 - 2019 Chinthaka Deshapriya'
 
 # Configuration
 theme:
@@ -27,17 +27,16 @@ extra:
   manifest: 'manifest.webmanifest'
   social:
     - type: 'github'
-      link: 'https://github.com/squidfunk'
+      link: 'https://github.com/ostackdoc'
     - type: 'twitter'
-      link: 'https://twitter.com/squidfunk'
+      link: 'https://twitter.com/ostackdoc'
     - type: 'linkedin'
-      link: 'https://linkedin.com/in/squidfunk'
+      link: 'https://linkedin.com/in/ostackdoc'
+nav:
+- 'Test Environment Example': 'test-env-example.md'
 
 # Google Analytics
-google_analytics:
-  - 'UA-XXXXXXXX-X'
-  - 'auto'
-
+google_analytics: ['UA-136248088-1', 'ostackdoc.github.io']
 # Extensions
 markdown_extensions:
   - admonition
