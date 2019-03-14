@@ -15,5 +15,12 @@ The following figure depicts this test environment and its components.
 ## Network Configuration
 
 ### Switch Port Configuration
-!!! Note:
-  The following example provides a good reference for switch configuration and cabinet layout. This example may be more that what is required for basic setups however it can be adjusted to just about any configuration. Additionally you will need to adjust the VLANS noted within this example to match your environment.
+
+!!! Note
+    The following example provides a good reference for switch configuration and cabinet layout. This example may be more that what is required for basic setups however it can be adjusted to just about any configuration. Additionally you will need to adjust the VLANS noted within this example to match your environment.
+
+![](img/switch-port-config.jpg)
+
+## Network CIDR/VLAN assignments
+
+The following CIDR and VLAN assignments are used for this environment.
