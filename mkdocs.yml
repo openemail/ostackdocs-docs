@@ -35,6 +35,10 @@ extra:
 nav:
 - 'Introduction': 'index.md'
 - 'Test Environment Example': 'test-env-example.md'
+- 'Preparing OpenStack Nodes:
+  - 'Installing Node Os': 'install-node-os.md'
+  - 'Setting Node Network: 'set-node-network.md'
+  
 
 # Google Analytics
 google_analytics: ['UA-136248088-1', 'ostackdoc.github.io']
