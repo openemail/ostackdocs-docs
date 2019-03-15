@@ -23,4 +23,7 @@ The following figure depicts this test environment and its components.
 
 ## Network CIDR/VLAN assignments
 
+!!! note
+    The VLAN IDs shown in the above figure  are  for the purpose of example only. You should change them to represent your requirements. 
+
 The following CIDR and VLAN assignments are used for this environment.
